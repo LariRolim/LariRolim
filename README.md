@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LariRolim
-- 👀 I’m interested in Marketing, Phyton, JavaScript and mobile
-- 🌱 I’m currently learning Phyton and JavaScript
+- 👀 I’m interested in Marketing, Phyton, HTML< CSS and JavaScript.
+- 🌱 I just finished a Phyton course (Cesar School) and now ███████▒▒▒ 70% of the Explorer course with Rocketseat (HTML, CSS, Javascript).
 - 📫 How to reach me: larissa.b.rolim@gmail.com
 
 <!---
