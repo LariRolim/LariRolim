@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LariRolim
-- 👀 I’m interested in Marketing, Java, HTML, CSS and JavaScript.
-- 🌱 I just finished a Phyton course (Cesar School) and now ███████▒▒▒ 70% of the Explorer course with Rocketseat (HTML, CSS, Javascript).
+- 👀 I’m interested in Marketing, Java and Software Engineering.
+- 🌱 I'm an Internet Systems student at Universidade Catolica de Pernambuco.
 - 📫 How to reach me: larissa.b.rolim@gmail.com
 
 <!---
